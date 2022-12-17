@@ -1,7 +1,7 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hey!!! everybody 👋, I'm Anirudh Rai</h1>
 <h3 align="center">A passionate backend developer from India and a bug bounty hunter☠️ 👽</h3>
-<img align="right"alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/06/hacker-gif-1.gif">
+<img align="right"alt="Coding" width="400" src="https://37.media.tumblr.com/c95dc33429844ed60e9dfcb0acbd7553/tumblr_n74rd1jnRI1tp95lfo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-100&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-100" /> </p>
 
