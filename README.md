@@ -36,7 +36,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/anirudhraiY"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/anirudhraiY" /></a></p><br><br>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =https://github.com/anirudh-100?tab=repositories
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudh-100&show_icons=true&locale=en&layout=compact" alt="anirudh-100" /></p>
 
