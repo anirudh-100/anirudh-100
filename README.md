@@ -1,7 +1,7 @@
 <h1 align="center">Anirudh Rai</h1>
 
 <p align="center">
-  <a href="https://anirudhrai.dev">
+  <a href="https://ai-ascend.vercel.app">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E8A33D&center=true&vCenter=true&width=620&lines=Applied+AI+Engineer;LLM+%26+Agentic+Systems;RAG+Pipelines+%26+Fine-Tuning+(LoRA%2FQLoRA);Full-Stack+Developer+%7C+MERN+%2B+Python" alt="Applied AI Engineer — LLM and agentic systems">
   </a>
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anirudhrai.dev"><img src="https://img.shields.io/badge/Portfolio-anirudhrai.dev-10151F?style=for-the-badge&logo=vercel&logoColor=E8A33D"></a>
+  <a href="https://ai-ascend.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anirudhrai.dev-10151F?style=for-the-badge&logo=vercel&logoColor=E8A33D"></a>
   <a href="https://www.linkedin.com/in/anirudh-rai-170402228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/Anirudhrai14"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
