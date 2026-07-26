@@ -1,61 +1,54 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Anirudh Rai — machine learning engineer" src="./assets/hero-dark.svg" width="100%">
-</picture>
+<img src="./assets/hero.svg" alt="Anirudh Rai — machine learning engineer" width="100%">
 
-I build intelligent systems where machine learning meets full-stack engineering — data pipelines, model training, and the interfaces that put them in front of real users.
+Building intelligent systems through the fusion of machine learning and full-stack development. Microsoft Certified. Based in New Delhi.
 
-**[anirudhrai.dev](https://anirudhrai.dev)**
+**→ [anirudhrai.dev](https://anirudhrai.dev)**
 
 ---
+
+### What I work on
+
+<img src="./assets/pipeline.svg" alt="ML pipeline: data ingestion, feature transforms, training, model registry, serving, with a monitoring feedback loop" width="400" align="right">
+
+**Machine learning** &nbsp;Deep learning and neural networks, from training through to deployed inference.
+
+**Applied AI** &nbsp;Healthcare AI and data science — turning models into something a non-technical user can actually operate.
+
+**Full stack** &nbsp;MERN-stack products that carry those models the last mile to the browser.
+
+The parts I care most about are the unglamorous ones: data validation, reproducible transforms, versioning, and knowing when a model has quietly degraded in production.
+
+<br clear="right">
+
+---
+
+<!-- SELECTED WORK — hidden until you fill it in.
+     Replace the four cells with real projects, then delete this line
+     and the closing arrow at the bottom of the block.
 
 ### Selected work
 
 | | |
 |---|---|
-| **[Project name](https://github.com/anirudh-100/repo)**<br><sub>What it does, in one line.</sub><br><sub>`PyTorch` · `FastAPI`</sub><br><sub>**Result:** FILL IN</sub> | **[Project name](https://github.com/anirudh-100/repo)**<br><sub>What it does, in one line.</sub><br><sub>`Python` · `scikit-learn`</sub><br><sub>**Result:** FILL IN</sub> |
-| **[Project name](https://github.com/anirudh-100/repo)**<br><sub>What it does, in one line.</sub><br><sub>`Transformers` · `Docker`</sub><br><sub>**Result:** FILL IN</sub> | **[Project name](https://github.com/anirudh-100/repo)**<br><sub>What it does, in one line.</sub><br><sub>`React` · `Node.js`</sub><br><sub>**Result:** FILL IN</sub> |
+| **[Name](https://github.com/anirudh-100/repo)**<br><sub>One line on what it does.</sub><br><sub>`PyTorch` · `FastAPI`</sub> | **[Name](https://github.com/anirudh-100/repo)**<br><sub>One line on what it does.</sub><br><sub>`TensorFlow` · `Python`</sub> |
+| **[Name](https://github.com/anirudh-100/repo)**<br><sub>One line on what it does.</sub><br><sub>`React` · `Node.js`</sub> | **[Name](https://github.com/anirudh-100/repo)**<br><sub>One line on what it does.</sub><br><sub>`MongoDB` · `Express`</sub> |
 
 ---
-
-### How I build
-
-<img src="./assets/ml-pipeline.svg" alt="ML pipeline: data ingestion, feature transforms, training, model registry, serving, with a monitoring feedback loop" width="440" align="right">
-
-Most of my work follows the same spine: get the data trustworthy first, keep transforms reproducible, gate every model on evaluation before it ships, and treat monitoring as part of the system rather than an afterthought.
-
-The parts I care most about are the unglamorous ones — data validation, versioning, and knowing when a model has quietly degraded in production.
-
-<br clear="right">
-
----
+     -->
 
 <details>
 <summary><b>Stack</b></summary>
 
 <br>
 
-**Modelling** &nbsp;Python · PyTorch · TensorFlow · scikit-learn
-**Data** &nbsp;Pandas · NumPy · Postgres · SQL
+**Modelling** &nbsp;Python · PyTorch · TensorFlow · deep learning · neural networks
+**Data** &nbsp;Pandas · NumPy · SQL
 **Full stack** &nbsp;React · Node.js · Express · MongoDB
-**Serving** &nbsp;FastAPI · Docker · AWS
-
-</details>
-
-<details>
-<summary><b>Currently</b></summary>
-
-<br>
-
-Working on &nbsp;FILL IN
-Learning &nbsp;FILL IN
+**Tooling** &nbsp;Git · Linux · Docker
 
 </details>
 
 ---
-
-### Contact
 
 [Portfolio](https://anirudhrai.dev) · [LinkedIn](https://www.linkedin.com/in/anirudh-rai-170402228/) · [X](https://x.com/Anirudhrai14)
 
